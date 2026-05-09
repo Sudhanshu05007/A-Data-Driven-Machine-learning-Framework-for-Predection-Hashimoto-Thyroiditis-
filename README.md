@@ -51,5 +51,4 @@ Hyperparameter tuning
 Real-time prediction system
 Author
 
-Sudhanshu Prakash
-Master’s in Artificial Intelligence
+
